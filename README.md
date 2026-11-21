@@ -12,7 +12,7 @@ I am a data analytics professional with experience in operational reporting, dat
 - Data quality, KPI monitoring and performance analysis
 
 ## Portfolio Projects
-### Operational Performance Analysis Using Python
+#### Operational Performance Analysis Using Python
 
 **Tools:** Python, pandas, matplotlib, Google Colab and GitHub Copilot
 
