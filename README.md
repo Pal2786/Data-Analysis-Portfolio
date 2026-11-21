@@ -12,7 +12,26 @@ I am a data analytics professional with experience in operational reporting, dat
 - Data quality, KPI monitoring and performance analysis
 
 ## Portfolio Projects
-Projects using fictional or publicly available data will be added here, demonstrating data preparation, analysis, visualisation and business recommendations.
+### Operational Performance Analysis Using Python
+
+**Tools:** Python, pandas, matplotlib, Google Colab and GitHub Copilot
+
+Analysed 10 days of fictional operational data to identify workload trends, performance patterns and SLA-related issues.
+
+**Key Results:**
+- 546 new cases
+- 483 resolved cases
+- Net workload increase of 63 cases
+- Throughput-to-intake ratio of 88.5%
+
+**Skills demonstrated:**
+- Data cleaning and validation
+- Python data analysis
+- KPI calculations
+- Data visualisation
+- Business insight and recommendations
+
+[View My Python Analysis Project](projects/operational-performance-analysis)
 
 ## Career Focus
 Interested in Data Analyst, BI Analyst and Power BI Developer opportunities.
