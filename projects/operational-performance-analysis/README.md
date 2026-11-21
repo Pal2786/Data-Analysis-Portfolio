@@ -16,7 +16,8 @@ This project uses fictional operational data to analyse workload, processing tim
 - Recommend improvements
 
 ## Status
-In development
+Completed - Portfolio demonstration using fictional data
+
 ## Analysis Results
 
 This project analyses 10 days of fictional operational data.
