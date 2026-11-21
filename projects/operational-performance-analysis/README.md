@@ -31,13 +31,13 @@ The analysis identifies a net increase in workload over the reporting period. Fu
 
 ### Data Visualisations
 
-#### Chart 1
+#### Daily Net Case Movement
 ![Operational analysis chart 1](IMG_3289.png)
 
-#### Chart 2
+#### Cumulative Net Workload Change
 ![Operational analysis chart 2](IMG_3290.png)
 
-#### Chart 3
+#### Daily Out-of-SLA Case Count
 ![Operational analysis chart 3](IMG_3291.png)
 
 ### Limitations
