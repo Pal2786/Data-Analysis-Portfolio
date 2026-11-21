@@ -1,0 +1,5 @@
+team_id,team_name,service_area
+T01,Email Operations,Customer Enquiries
+T02,Online Enquiries,Customer Enquiries
+T03,Claims Review,Case Processing
+T04,Complex Cases,Case Processing
