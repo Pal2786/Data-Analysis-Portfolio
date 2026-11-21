@@ -12,7 +12,7 @@ A SQL analysis using fictional operational datasets to explore workload, SLA per
 - KPI calculations and business insights
 
 ## Status
-In development
+Completed - Portfolio demonstration using fictional data
 
 ## Analysis Results
 
