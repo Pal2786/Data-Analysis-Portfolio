@@ -33,5 +33,27 @@ Analysed 10 days of fictional operational data to identify workload trends, perf
 
 [View My Python Analysis Project](projects/operational-performance-analysis)
 
+### SQL Operational Performance Analysis
+
+**Tools:** SQL, SQLite, Python, pandas and Google Colab
+
+Analysed 12 fictional operational cases across three teams using SQL joins, aggregations, conditional logic and date calculations.
+
+**Key Findings:**
+- 12 cases analysed
+- 8 resolved and 4 unresolved cases
+- Claims Review: 6-day average resolution time and 33.3% resolved-case SLA compliance
+- Complex Cases and Email Operations: 3-day average resolution time and 100% resolved-case SLA compliance
+
+**Skills demonstrated:**
+- SQL INNER JOIN
+- GROUP BY, COUNT, SUM and AVG
+- CASE WHEN and date calculations
+- SLA performance analysis
+- Data visualisation
+- Business insights and recommendations
+
+[View My SQL Analysis Project](projects/sql-operational-analysis)
+
 ## Career Focus
 Interested in Data Analyst, BI Analyst and Power BI Developer opportunities.
